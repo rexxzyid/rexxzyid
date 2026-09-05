@@ -1,59 +1,100 @@
 <h1 align="center">Hi all 👋, I'm RexxHayanasi</h1>
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> REXXHAYANASI |  FROM INDONESIA
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=51AAFF&lines=CODE+FREE+FOR+ALL+;GUNAKAN+DENGAN+BIJAK!!!;SELAMAT+DATANG+%F0%9F%92%95%F0%9F%8C%B9)](https://git.io/typing-svg)
- ------
- 
- </details>
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<b>REXXHAYANASI</b> — FROM INDONESIA
+</p>
+
+<p align="center">
+<a href="https://portofoliorexx.vercel.app"><img src="https://readme-typing-svg.demolab.com?size=30&duration=4500&color=51AAFF&center=true&vCenter=true&width=700&lines=CODE+FREE+FOR+ALL+;GUNAKAN+DENGAN+BIJAK!!!;SELAMAT+DATANG+%F0%9F%92%95%F0%9F%8C%B9" alt="Typing SVG"/></a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake contribution grid" width="700"/>
 </p>
 
 <h3 align="center">A developer from Indonesia</h3>
 
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
-<div>
-<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
 
-- Name **RexxzynXD** / **レイドー・サトリア**
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align="right" alt="Elaina"/>
 
-- Live in **West JAVA, Indonesia**
+<img src="./img/AboutMe-elaina.png" width="488" alt="About Me"/>
+
+- Name **RexxHayanasi** / **レイドー・サトリア**
+
+- Live in **West Java, Indonesia**
 
 - Studying [**Junior Back-End Developer**](https://dicoding.com)
 
 - Familiar with **GNU/Linux** and **FreeBSD**
 
-- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
+- Good with **JavaScript**, **TypeScript**, **PHP**, **Go**, and **Python**
 
 - Have high experience with **Photoshop** and **CorelDRAW**
-  
+
 - Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<br clear="right"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-DAC6C2?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-DAC6C2?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Node.js-DAC6C2?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/PHP-DAC6C2?style=for-the-badge&logo=php&logoColor=777BB4"/>
+<img src="https://img.shields.io/badge/Go-DAC6C2?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/Python-DAC6C2?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <br/>
-<br/>
-<img src="./img/Repo-elaina.png" width="488" />
-<br/>
-<br/>
-  
-- 📗 [***Elaina-WhatsappBOT***](https://whatsapp.com/channel/0029VacDpZPJf05jSdI9qo2S) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-  
-<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” -Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; contact : rexxzynxd@yahoo.com</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RexxHayanasi&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://rexxzynprofile.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/rexxzynxd"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/rexxzynxd"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@rexxzynxd"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/rexxzynxd"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Linux-DAC6C2?style=for-the-badge&logo=linux&logoColor=000000"/>
+<img src="https://img.shields.io/badge/FreeBSD-DAC6C2?style=for-the-badge&logo=freebsd&logoColor=AB2B28"/>
+<img src="https://img.shields.io/badge/Git-DAC6C2?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Photoshop-DAC6C2?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/CorelDRAW-DAC6C2?style=for-the-badge&logo=coreldraw&logoColor=00A94F"/>
 </p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
-</div>
+
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" alt="Elaina"/>
+
+<img src="./img/Repo-elaina.png" width="488" alt="Repository"/>
+
+- 📦 [***@rexxhayanasi/elaina-baileys***](https://www.npmjs.com/package/@rexxhayanasi/elaina-baileys) <br/>
+  WhatsApp Multi-Device library built on Baileys — integrated MessageBuilder, interactive messages, carousel and native-flow helpers in one dependency. ESM, Node >= 20.
+
+- 📗 [***Elaina-WhatsappBOT***](https://whatsapp.com/channel/0029VacDpZPJf05jSdI9qo2S) <br/>
+  WhatsApp bot built on top of elaina-baileys — button, list, and native-flow commands with an update channel for releases and changelogs.
+
+- 🌐 [***Portfolio***](https://portofoliorexx.vercel.app) <br/>
+  Personal site — profile, project list, and contact.
+
+<br clear="right"/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RexxHayanasi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5&text_bold=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexxHayanasi&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RexxHayanasi&hide_border=true&theme=transparent&ring=539BF5&fire=539BF5&currStreakLabel=539BF5&sideLabels=ADBAC7&dates=ADBAC7&sideNums=ADBAC7&currStreakNum=ADBAC7" height="165"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=RexxHayanasi&no-bg=true&no-frame=true&rank=-?&theme=darkhub&column=7" align="center"/>
+</p>
+
+<img src="./img/banner-elainaa.png" width="500" alt="banner"/>
+
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” — Elaina</sub>
+
+<br/><br/>
+
+<p align="center">
+<a href="https://portofoliorexx.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a>
+<a href="https://npmjs.com/~rexxhayanasi"><img src="https://img.shields.io/badge/NPM-DAC6C2?style=for-the-badge"/></a>
+<a href="https://instagram.com/rexxzynxd"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a>
+<a href="https://t.me/rexxhayanasii"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a>
+<a href="https://www.whatsapp.com/channel/0029Vb8RvQKEFeXmGnJr621s"><img src="https://img.shields.io/badge/WHATSAPP-DAC6C2?style=for-the-badge"/></a>
+<a href="mailto:rexxhayanasi@dev"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
+</p>
+
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" alt="footer"/>
