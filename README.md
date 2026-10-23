@@ -20,9 +20,9 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=rexxzyid&label=Profile%20Views&color=539BF5&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/rexxzyid?label=Followers&style=flat-square&color=539BF5&logo=github" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/rexxzyid?label=Stars&style=flat-square&color=539BF5&logo=github" alt="Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=RexxHayanasi&label=Profile%20Views&color=539BF5&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/RexxHayanasi?label=Followers&style=flat-square&color=539BF5&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/RexxHayanasi?label=Stars&style=flat-square&color=539BF5&logo=github" alt="Stars"/>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-2ea44f?style=flat-square&logo=github" alt="Status"/>
   </p>
 </div>
@@ -38,23 +38,23 @@
 
 <br/>
 
-- [👤 About Me](#about-me)
-- [🚀 Currently Working On](#currently-working-on)
-- [🛠️ Tech Stack & Tools](#tech-stack)
-- [📦 Featured Projects](#featured-projects)
-- [📊 GitHub Statistics](#github-statistics)
-- [🏆 Trophy Room](#trophy-room)
-- [💬 Connect With Me](#connect-with-me)
-- [☕ Support My Work](#support-my-work)
-- [🐞 Found a Bug?](#found-a-bug)
-- [⭐ Show Your Support](#show-your-support)
+- [👤 About Me](#-about-me)
+- [🚀 Currently Working On](#-currently-working-on)
+- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
+- [📦 Featured Projects](#-featured-projects)
+- [📊 GitHub Statistics](#-github-statistics)
+- [🏆 Trophy Room](#-trophy-room)
+- [💬 Connect With Me](#-connect-with-me)
+- [☕ Support My Work](#-support-my-work)
+- [🐞 Found a Bug?](#-found-a-bug)
+- [⭐ Show Your Support](#-show-your-support)
 
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rexxzyid/rexxzyid/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -63,7 +63,7 @@
 <!--                          👤 ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="about-me">👤 About Me</h2>
+<h2 id="-about-me">👤 About Me</h2>
 
 <img src="https://i.ibb.co/s1PLVNZ/pp3.png" width="240" align="right" alt="Elaina"/>
 
@@ -88,7 +88,7 @@ motto:      "Code Free for All — Use It Wisely 🌹"
 <!--                    🚀 CURRENTLY WORKING ON                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="currently-working-on">🚀 Currently Working On</h2>
+<h2 id="-currently-working-on">🚀 Currently Working On</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -143,7 +143,7 @@ Personal website
 <!--                     🛠️ TECH STACK & TOOLS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="tech-stack">🛠️ Tech Stack & Tools</h2>
+<h2 id="️-tech-stack--tools">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -165,10 +165,10 @@ Personal website
 <!--                     📦 FEATURED PROJECTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="featured-projects">📦 Featured Projects</h2>
+<h2 id="-featured-projects">📦 Featured Projects</h2>
 
 <div align="center">
-  <img src="./img/Repo-elaina.png" width="420" alt="Projects Banner"/>
+  <img src="./img/Repo-elaina.png" width="420" alt="Projects"/>
 </div>
 
 <br/>
@@ -256,30 +256,30 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     📊 GITHUB STATISTICS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="github-statistics">📊 GitHub Statistics</h2>
+<h2 id="-github-statistics">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexxzyid&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5&text_bold=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxzyid&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RexxHayanasi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=539BF5&text_color=ADBAC7&icon_color=539BF5&text_bold=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RexxHayanasi&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" alt="Top Languages"/>
 
 <br/><br/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=rexxzyid&hide_border=true&theme=transparent&ring=539BF5&fire=539BF5&currStreakLabel=539BF5&sideLabels=ADBAC7&dates=ADBAC7&sideNums=ADBAC7&currStreakNum=ADBAC7" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=RexxHayanasi&hide_border=true&theme=transparent&ring=539BF5&fire=539BF5&currStreakLabel=539BF5&sideLabels=ADBAC7&dates=ADBAC7&sideNums=ADBAC7&currStreakNum=ADBAC7" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxzyid&theme=github_dark" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RexxHayanasi&theme=github_dark" width="100%" alt="Profile Summary"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rexxzyid&theme=github_dark" width="32%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rexxzyid&theme=github_dark" width="32%" alt="Most Commit Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rexxzyid&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RexxHayanasi&theme=github_dark" width="32%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RexxHayanasi&theme=github_dark" width="32%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RexxHayanasi&theme=github_dark&utcOffset=7" width="32%" alt="Productive Time"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rexxzyid&bg_color=transparent&color=539BF5&line=539BF5&point=ADBAC7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RexxHayanasi&bg_color=transparent&color=539BF5&line=539BF5&point=ADBAC7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -289,11 +289,11 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                       🏆 TROPHY ROOM                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="trophy-room">🏆 Trophy Room</h2>
+<h2 id="-trophy-room">🏆 Trophy Room</h2>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rexxzyid&no-bg=true&no-frame=true&rank=-?&theme=darkhub&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RexxHayanasi&no-bg=true&no-frame=true&rank=-?&theme=darkhub&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -303,7 +303,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     💬 CONNECT WITH ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="connect-with-me">💬 Connect With Me</h2>
+<h2 id="-connect-with-me">💬 Connect With Me</h2>
 
 <div align="center">
 
@@ -339,7 +339,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     ☕ SUPPORT MY WORK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="support-my-work">☕ Support My Work</h2>
+<h2 id="-support-my-work">☕ Support My Work</h2>
 
 <div align="center">
 
@@ -365,9 +365,9 @@ If my work has helped you, consider buying me a coffee — it keeps the code flo
 <!--                       🐞 FOUND A BUG?                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="found-a-bug">🐞 Found a Bug?</h2>
+<h2 id="-found-a-bug">🐞 Found a Bug?</h2>
 
-I'm always open to **collaboration**, **suggestions**, and **bug reports**. Feel free to reach out through any of my [contact channels](#connect-with-me) above.
+I'm always open to **collaboration**, **suggestions**, and **bug reports**. Feel free to reach out through any of my [contact channels](#-connect-with-me) above.
 
 When reporting a bug, please include the following information whenever possible:
 
@@ -387,7 +387,7 @@ This helps me investigate and resolve issues more efficiently. 🙏
 <!--                     ⭐ SHOW YOUR SUPPORT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="show-your-support">⭐ Show Your Support</h2>
+<h2 id="-show-your-support">⭐ Show Your Support</h2>
 
 <div align="center">
 
@@ -436,7 +436,7 @@ Every small gesture means a lot — thank you! 🙏
 **Thanks for stopping by! ⭐ Star something if you like it.**
 
 <sub>
-  Made with ❤️ by <a href="https://github.com/rexxzyid">RexxHayanasi</a> · Indonesia 🇮🇩
+  Made with ❤️ by <a href="https://github.com/RexxHayanasi">RexxHayanasi</a> · Indonesia 🇮🇩
   <br/>
   <i>© 2024 — Present · Code Free for All</i>
 </sub>
