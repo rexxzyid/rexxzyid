@@ -6,9 +6,9 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" alt="Kyubey"/>
 
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
     Hi, I'm RexxHayanasi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="wave"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
   </h1>
 
   <a href="https://portofoliorexx.vercel.app">
@@ -20,9 +20,9 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=RexxHayanasi&label=Profile%20Views&color=539BF5&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/RexxHayanasi?label=Followers&style=flat-square&color=539BF5&logo=github" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/RexxHayanasi?label=Stars&style=flat-square&color=539BF5&logo=github" alt="Stars"/>
+    <img src="https://komarev.com/ghpvc/?username=rexxzyid&label=Profile%20Views&color=539BF5&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/rexxzyid?label=Followers&style=flat-square&color=539BF5&logo=github" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/rexxzyid?label=Stars&style=flat-square&color=539BF5&logo=github" alt="Stars"/>
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collab-2ea44f?style=flat-square&logo=github" alt="Status"/>
   </p>
 </div>
@@ -38,23 +38,23 @@
 
 <br/>
 
-- [👤 About Me](#-about-me)
-- [🚀 Currently Working On](#-currently-working-on)
-- [🛠️ Tech Stack & Tools](#️-tech-stack--tools)
-- [📦 Featured Projects](#-featured-projects)
-- [📊 GitHub Statistics](#-github-statistics)
-- [🏆 Trophy Room](#-trophy-room)
-- [💬 Connect With Me](#-connect-with-me)
-- [☕ Support My Work](#-support-my-work)
-- [🐞 Found a Bug?](#-found-a-bug)
-- [⭐ Show Your Support](#-show-your-support)
+- [👤 About Me](#about-me)
+- [🚀 Currently Working On](#currently-working-on)
+- [🛠️ Tech Stack & Tools](#tech-stack)
+- [📦 Featured Projects](#featured-projects)
+- [📊 GitHub Statistics](#github-statistics)
+- [🏆 Trophy Room](#trophy-room)
+- [💬 Connect With Me](#connect-with-me)
+- [☕ Support My Work](#support-my-work)
+- [🐞 Found a Bug?](#found-a-bug)
+- [⭐ Show Your Support](#show-your-support)
 
 </details>
 
 ---
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/rexxzyid/rexxzyid/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </div>
 
 ---
@@ -63,7 +63,7 @@
 <!--                          👤 ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-about-me">👤 About Me</h2>
+<h2 id="about-me">👤 About Me</h2>
 
 <img src="https://i.ibb.co/s1PLVNZ/pp3.png" width="240" align="right" alt="Elaina"/>
 
@@ -88,7 +88,7 @@ motto:      "Code Free for All — Use It Wisely 🌹"
 <!--                    🚀 CURRENTLY WORKING ON                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-currently-working-on">🚀 Currently Working On</h2>
+<h2 id="currently-working-on">🚀 Currently Working On</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -143,7 +143,7 @@ Personal website
 <!--                     🛠️ TECH STACK & TOOLS                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="️-tech-stack--tools">🛠️ Tech Stack & Tools</h2>
+<h2 id="tech-stack">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
@@ -165,10 +165,10 @@ Personal website
 <!--                     📦 FEATURED PROJECTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-featured-projects">📦 Featured Projects</h2>
+<h2 id="featured-projects">📦 Featured Projects</h2>
 
 <div align="center">
-  <img src="./img/Repo-elaina.png" width="420" alt="Projects"/>
+  <img src="./img/Repo-elaina.png" width="420" alt="Projects Banner"/>
 </div>
 
 <br/>
@@ -256,7 +256,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     📊 GITHUB STATISTICS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-github-statistics">📊 GitHub Statistics</h2>
+<h2 id="github-statistics">📊 GitHub Statistics</h2>
 
 <div align="center">
 
@@ -289,7 +289,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                       🏆 TROPHY ROOM                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-trophy-room">🏆 Trophy Room</h2>
+<h2 id="trophy-room">🏆 Trophy Room</h2>
 
 <div align="center">
 
@@ -303,7 +303,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     💬 CONNECT WITH ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-connect-with-me">💬 Connect With Me</h2>
+<h2 id="connect-with-me">💬 Connect With Me</h2>
 
 <div align="center">
 
@@ -329,7 +329,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <br/><br/>
 
 <b>💡 Open for:</b>
-<code>Collaboration</code> · <code>Freelance</code> · <code>Open Source</code> · <code>Bug Bounty</code>
+<code>Collaboration</code> · <code>Freelance</code> · <code>Open Source</code> · <code>Bug Reports</code>
 
 </div>
 
@@ -339,7 +339,7 @@ My personal website showcasing my profile, projects, and how to reach me.
 <!--                     ☕ SUPPORT MY WORK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-support-my-work">☕ Support My Work</h2>
+<h2 id="support-my-work">☕ Support My Work</h2>
 
 <div align="center">
 
@@ -347,13 +347,13 @@ If my work has helped you, consider buying me a coffee — it keeps the code flo
 
 <br/><br/>
 
-<a href="https://trakteer.id/rexxhayanasi" target="_blank">
+<a href="https://trakteer.id/rexxhayanasi">
   <img src="https://img.shields.io/badge/Trakteer-Support-BE1D2A?style=for-the-badge&logo=trakteer&logoColor=white" alt="Trakteer"/>
 </a>
-<a href="https://saweria.co/rexxhayanasi" target="_blank">
+<a href="https://saweria.co/rexxhayanasi">
   <img src="https://img.shields.io/badge/Saweria-Support-FAA419?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Saweria"/>
 </a>
-<a href="https://www.buymeacoffee.com/rexxhayanasi" target="_blank">
+<a href="https://www.buymeacoffee.com/rexxhayanasi">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee"/>
 </a>
 
@@ -365,9 +365,9 @@ If my work has helped you, consider buying me a coffee — it keeps the code flo
 <!--                       🐞 FOUND A BUG?                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-found-a-bug">🐞 Found a Bug?</h2>
+<h2 id="found-a-bug">🐞 Found a Bug?</h2>
 
-I'm always open to **collaboration**, **suggestions**, and **bug reports**. Feel free to reach out through any of my [contact channels](#-connect-with-me) above.
+I'm always open to **collaboration**, **suggestions**, and **bug reports**. Feel free to reach out through any of my [contact channels](#connect-with-me) above.
 
 When reporting a bug, please include the following information whenever possible:
 
@@ -387,17 +387,17 @@ This helps me investigate and resolve issues more efficiently. 🙏
 <!--                     ⭐ SHOW YOUR SUPPORT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 id="-show-your-support">⭐ Show Your Support</h2>
+<h2 id="show-your-support">⭐ Show Your Support</h2>
 
 <div align="center">
 
 If you like my work, don't forget to:
 
-⭐ **Star** my repositories
-🍴 **Fork** something interesting
-🐛 **Report** bugs you find
-💡 **Suggest** new features
-📣 **Share** with others
+- ⭐ **Star** my repositories
+- 🍴 **Fork** something interesting
+- 🐛 **Report** bugs you find
+- 💡 **Suggest** new features
+- 📣 **Share** with others
 
 <br/>
 
